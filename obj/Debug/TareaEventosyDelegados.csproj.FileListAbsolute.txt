@@ -1,0 +1,10 @@
+D:\Cursos\VS Fundamentals\Tarea20\TareaEventosyDelegados\TareaEventosyDelegados\bin\Debug\TareaEventosyDelegados.exe.config
+D:\Cursos\VS Fundamentals\Tarea20\TareaEventosyDelegados\TareaEventosyDelegados\bin\Debug\TareaEventosyDelegados.exe
+D:\Cursos\VS Fundamentals\Tarea20\TareaEventosyDelegados\TareaEventosyDelegados\bin\Debug\TareaEventosyDelegados.pdb
+D:\Cursos\VS Fundamentals\Tarea20\TareaEventosyDelegados\TareaEventosyDelegados\obj\Debug\TareaEventosyDelegados.csprojAssemblyReference.cache
+D:\Cursos\VS Fundamentals\Tarea20\TareaEventosyDelegados\TareaEventosyDelegados\obj\Debug\TareaEventosyDelegados.Form1.resources
+D:\Cursos\VS Fundamentals\Tarea20\TareaEventosyDelegados\TareaEventosyDelegados\obj\Debug\TareaEventosyDelegados.Properties.Resources.resources
+D:\Cursos\VS Fundamentals\Tarea20\TareaEventosyDelegados\TareaEventosyDelegados\obj\Debug\TareaEventosyDelegados.csproj.GenerateResource.cache
+D:\Cursos\VS Fundamentals\Tarea20\TareaEventosyDelegados\TareaEventosyDelegados\obj\Debug\TareaEventosyDelegados.csproj.CoreCompileInputs.cache
+D:\Cursos\VS Fundamentals\Tarea20\TareaEventosyDelegados\TareaEventosyDelegados\obj\Debug\TareaEventosyDelegados.exe
+D:\Cursos\VS Fundamentals\Tarea20\TareaEventosyDelegados\TareaEventosyDelegados\obj\Debug\TareaEventosyDelegados.pdb
